@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="kb_knowledge_base">
+    <kb_knowledge_base action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <approval_description/>
+        <card_color/>
+        <data_policy display_value="Data policy for MediumApp Knowledge knowledge base">655afdb567101200ff3598a557415a1b</data_policy>
+        <description>A default description for MediumApp Knowledge base</description>
+        <disable_category_editing>false</disable_category_editing>
+        <disable_commenting>false</disable_commenting>
+        <disable_suggesting>false</disable_suggesting>
+        <enable_socialqa>true</enable_socialqa>
+        <icon/>
+        <kb_managers/>
+        <kb_version>3</kb_version>
+        <mandatory_fields/>
+        <order/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <question_annotation/>
+        <retire_workflow display_value="Knowledge - Instant Retire">3d18ef12c30031000096dfdc64d3aeb6</retire_workflow>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2015-12-13 19:19:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>255afdb567101200ff3598a557415a1b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-12-13 19:19:57</sys_updated_on>
+        <table>kb_knowledge</table>
+        <template/>
+        <title>MediumApp Knowledge</title>
+        <workflow display_value="Knowledge - Instant Publish">fbe441019f112100d8f8700c267fcf1a</workflow>
+    </kb_knowledge_base>
+    <sys_translated_text action="delete_multiple" query="documentkey=255afdb567101200ff3598a557415a1b"/>
+</record_update>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="8a5afdb567101200ff3598a557415a28" sys_domain="global" table="sn_mediumapp_sf_task" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2015-12-13 19:19:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0e5afdb567101200ff3598a557415a28</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_mediumapp_sf_task" name="sn_mediumapp_sf_task" sys_domain="global" view="Default view">8a5afdb567101200ff3598a557415a28</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="sn_mediumapp_sf_task" sys_domain="global" view="Default view">865afdb567101200ff3598a557415a27</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2015-12-13 19:19:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2015-12-13 19:19:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ca5afdb567101200ff3598a557415a29</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_mediumapp_sf_task" name="sn_mediumapp_sf_task" sys_domain="global" view="Default view">8a5afdb567101200ff3598a557415a28</sys_ui_form>
+            <sys_ui_section caption="Manual" display_value="Manual" name="sn_mediumapp_sf_task" sys_domain="global" view="Default view">025afdb567101200ff3598a557415a29</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2015-12-13 19:19:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2015-12-13 19:19:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ca5afdb567101200ff3598a557415a2a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_mediumapp_sf_task" name="sn_mediumapp_sf_task" sys_domain="global" view="Default view">8a5afdb567101200ff3598a557415a28</sys_ui_form>
+            <sys_ui_section caption="Automatic" display_value="Automatic" name="sn_mediumapp_sf_task" sys_domain="global" view="Default view">025afdb567101200ff3598a557415a2a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2015-12-13 19:19:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2015-12-13 19:19:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ca5afdb567101200ff3598a557415a2b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_mediumapp_sf_task" name="sn_mediumapp_sf_task" sys_domain="global" view="Default view">8a5afdb567101200ff3598a557415a28</sys_ui_form>
+            <sys_ui_section caption="Field Controls" display_value="Field Controls" name="sn_mediumapp_sf_task" sys_domain="global" view="Default view">ce5afdb567101200ff3598a557415a2a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2015-12-13 19:19:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>sn_mediumapp_sf_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2015-12-13 19:19:59</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8a5afdb567101200ff3598a557415a28</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sn_mediumapp_sf_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="MediumApp" source="sn_mediumapp">e73ab1b567101200ff3598a557415a86</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="MediumApp">e73ab1b567101200ff3598a557415a86</sys_scope>
+            <sys_update_name>sys_ui_form_sections_8a5afdb567101200ff3598a557415a28</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2015-12-13 19:19:59</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sm_config">
+    <sm_config action="INSERT_OR_UPDATE">
+        <accept_reject>false</accept_reject>
+        <active>true</active>
+        <admin_role display_value="sn_mediumapp_admin" name="sn_mediumapp_admin">c44a7db567101200ff3598a557415adf</admin_role>
+        <agent_role display_value="sn_mediumapp_agent" name="sn_mediumapp_agent">8c4a7db567101200ff3598a557415adf</agent_role>
+        <app_name>mediumapp</app_name>
+        <approval>true</approval>
+        <approval_workflow display_value="Approval Workflow for SM">da95b573d7322100bbc783e80e610360</approval_workflow>
+        <approver_role display_value="sn_mediumapp_approver_user" name="sn_mediumapp_approver_user">444a7db567101200ff3598a557415ae0</approver_role>
+        <associated_task_tables/>
+        <auto_dispatch>true</auto_dispatch>
+        <basic_role display_value="sn_mediumapp_basic" name="sn_mediumapp_basic">1c4a7db567101200ff3598a557415ae0</basic_role>
+        <catalog display_value="MediumApp Catalog">e55afdb567101200ff3598a557415a17</catalog>
+        <created_with_version>HEAD (Master): Sun_Dec_13_10_35_27_PST_2015</created_with_version>
+        <disabled_processes/>
+        <dispatch_group_type display_value="mediumapp_dispatch">b94abdb567101200ff3598a557415a30</dispatch_group_type>
+        <dispatch_queue>false</dispatch_queue>
+        <dispatcher_role display_value="sn_mediumapp_dispatcher" name="sn_mediumapp_dispatcher">d04a7db567101200ff3598a557415ae1</dispatcher_role>
+        <follow_the_sun_priority>{value:,type:,display:}</follow_the_sun_priority>
+        <geolocation_maps>false</geolocation_maps>
+        <inbound_email>false</inbound_email>
+        <initiator_role display_value="sn_mediumapp_initiator" name="sn_mediumapp_initiator">984a7db567101200ff3598a557415ae1</initiator_role>
+        <kbase display_value="MediumApp Knowledge">255afdb567101200ff3598a557415a1b</kbase>
+        <knowledge_base>true</knowledge_base>
+        <limit_by_location>true</limit_by_location>
+        <main_model_category display_value="MediumApp Request Template">105abdb567101200ff3598a557415a9f</main_model_category>
+        <main_model_table>sn_mediumapp_request_template</main_model_table>
+        <main_state_flow_table>sn_mediumapp_sf_request</main_state_flow_table>
+        <main_table>sn_mediumapp_request</main_table>
+        <managed_docs>true</managed_docs>
+        <mandatory_work_notes>false</mandatory_work_notes>
+        <name>MediumApp</name>
+        <part_requirement>false</part_requirement>
+        <property_prefix>sn_mediumapp</property_prefix>
+        <qualification>false</qualification>
+        <qualification_group_type/>
+        <qualifier_role/>
+        <read_role display_value="sn_mediumapp_read" name="sn_mediumapp_read">504a7db567101200ff3598a557415ae2</read_role>
+        <request_dispatch_method>auto</request_dispatch_method>
+        <request_dispatch_workflow display_value="Request Assignment Workflow for SM">879cca02d7100200e5eb83e80e6103fc</request_dispatch_workflow>
+        <request_driven>false</request_driven>
+        <rollup_work_notes>false</rollup_work_notes>
+        <service_catalog>true</service_catalog>
+        <surveys/>
+        <sys_class_name>sm_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2015-12-13 19:20:03</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>fe5afdb567101200ff3598a557415a4c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MediumApp</sys_name>
+        <sys_package display_value="MediumApp" source="sn_mediumapp">e73ab1b567101200ff3598a557415a86</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="MediumApp">e73ab1b567101200ff3598a557415a86</sys_scope>
+        <sys_update_name>sm_config_fe5afdb567101200ff3598a557415a4c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-12-13 19:20:03</sys_updated_on>
+        <task_activities>false</task_activities>
+        <task_dispatch_method>auto</task_dispatch_method>
+        <task_dispatch_workflow display_value="Assignment Workflow for SM">e1865971d7132100bbc783e80e610365</task_dispatch_workflow>
+        <task_model_category display_value="MediumApp Task Template">505abdb567101200ff3598a557415a9f</task_model_category>
+        <task_model_table>sn_mediumapp_task_template</task_model_table>
+        <task_state_flow_table>sn_mediumapp_sf_task</task_state_flow_table>
+        <task_table>sn_mediumapp_task</task_table>
+        <task_work_group_type/>
+        <templates_to_catalog>true</templates_to_catalog>
+        <track_travel>false</track_travel>
+        <use_consistent_assignment>false</use_consistent_assignment>
+        <use_follow_the_sun>true</use_follow_the_sun>
+        <use_location>true</use_location>
+        <use_schedule>false</use_schedule>
+        <use_sf>true</use_sf>
+        <use_skill>all</use_skill>
+        <use_timezone>true</use_timezone>
+        <user_created>true</user_created>
+        <vendor_group_type display_value="mediumapp_vendor">f94abdb567101200ff3598a557415a30</vendor_group_type>
+        <work_group_type display_value="mediumapp">794abdb567101200ff3598a557415a30</work_group_type>
+    </sm_config>
+</record_update>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="kb_knowledge">
+    <kb_knowledge action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <article_type>text</article_type>
+        <author display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</author>
+        <category/>
+        <cmdb_ci/>
+        <description/>
+        <direct>false</direct>
+        <disable_commenting>false</disable_commenting>
+        <disable_suggesting>false</disable_suggesting>
+        <display_attachments>false</display_attachments>
+        <flagged>false</flagged>
+        <image/>
+        <kb_category/>
+        <kb_knowledge_base display_value="MediumApp Knowledge">255afdb567101200ff3598a557415a1b</kb_knowledge_base>
+        <meta/>
+        <number>KB0010001</number>
+        <published>2015-12-13</published>
+        <rating/>
+        <retired/>
+        <roles/>
+        <short_description>MediumApp Knowledge</short_description>
+        <source/>
+        <sys_class_name>kb_knowledge</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2015-12-13 19:19:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ad5afdb567101200ff3598a557415a1d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-12-13 19:19:57</sys_updated_on>
+        <sys_view_count>0</sys_view_count>
+        <text><![CDATA[A knowledge example for MediumApp Knowledge. In Knowlege base module you can modify this text or define more articles like these. The knowleddge pages can be article, blog, or wiki pages and they all are searchable.]]></text>
+        <topic>General</topic>
+        <use_count>0</use_count>
+        <valid_to>2020-01-01</valid_to>
+        <wiki/>
+        <workflow_state>draft</workflow_state>
+    </kb_knowledge>
+    <sys_translated_text action="delete_multiple" query="documentkey=ad5afdb567101200ff3598a557415a1d"/>
+</record_update>

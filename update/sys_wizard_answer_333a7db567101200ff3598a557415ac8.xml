@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>MediumApp Request</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>MediumApp Request</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Create a new service order" name="Create a new service order">cb75fab1df322100dca6a5f59bf26332</question>
+        <roles>sn_mediumapp_initiator</roles>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2015-12-13 19:19:34</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>333a7db567101200ff3598a557415ac8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MediumApp Request</sys_name>
+        <sys_package display_value="MediumApp" source="sn_mediumapp">e73ab1b567101200ff3598a557415a86</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="MediumApp">e73ab1b567101200ff3598a557415a86</sys_scope>
+        <sys_update_name>sys_wizard_answer_333a7db567101200ff3598a557415ac8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-12-13 19:19:34</sys_updated_on>
+        <table/>
+        <target_url>sn_mediumapp_request.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

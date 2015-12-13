@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_catalog">
+    <sc_catalog action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <background_color>white</background_color>
+        <description>A description for MediumApp Catalog</description>
+        <desktop_continue_shopping/>
+        <desktop_home_page/>
+        <desktop_image/>
+        <sys_class_name>sc_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2015-12-13 19:19:57</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>e55afdb567101200ff3598a557415a17</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MediumApp Catalog</sys_name>
+        <sys_package display_value="MediumApp" source="sn_mediumapp">e73ab1b567101200ff3598a557415a86</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="MediumApp">e73ab1b567101200ff3598a557415a86</sys_scope>
+        <sys_update_name>sc_catalog_e55afdb567101200ff3598a557415a17</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-12-13 19:19:57</sys_updated_on>
+        <title>MediumApp Catalog</title>
+    </sc_catalog>
+    <sys_translated_text action="delete_multiple" query="documentkey=e55afdb567101200ff3598a557415a17"/>
+</record_update>

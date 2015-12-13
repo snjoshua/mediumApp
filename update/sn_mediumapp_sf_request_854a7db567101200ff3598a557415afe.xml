@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sn_mediumapp_sf_request">
+    <sn_mediumapp_sf_request action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <automatic_condition/>
+        <automatic_roles/>
+        <automatic_script/>
+        <automatic_string>(!current.assigned_to.nil() || !current.template.nil()) &amp;&amp; (new sn_sm.SMConfiguration()).isEnabled(current, "approval", false)</automatic_string>
+        <business_rule display_value="Ready for work (approval on)">c54a7db567101200ff3598a557415afe</business_rule>
+        <change_client_script/>
+        <client_script/>
+        <comment>MediumApp Request State flow</comment>
+        <derived_from display_value="Ready for work (approval on)">edfeb353df312100dca6a5f59bf263e3</derived_from>
+        <end_text>10</end_text>
+        <ending_state display_value="Ready">8c4a7db567101200ff3598a557415aca</ending_state>
+        <event/>
+        <event_rule/>
+        <mandatory_fields/>
+        <manual_condition/>
+        <manual_roles/>
+        <manual_script><![CDATA[action.setRedirectURL(current);]]></manual_script>
+        <manual_string>(new sn_sm.SMConfiguration()).isEnabled(current, "approval", false)</manual_string>
+        <name>Ready for work (approval on)</name>
+        <not_mandatory/>
+        <not_read_only/>
+        <not_visible/>
+        <number>SF0010011</number>
+        <override/>
+        <read_only_fields/>
+        <roles/>
+        <start_text>13</start_text>
+        <starting_state display_value="Approved">0c4a7db567101200ff3598a557415ac9</starting_state>
+        <sys_class_name>sn_mediumapp_sf_request</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2015-12-13 19:19:38</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>854a7db567101200ff3598a557415afe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ready for work (approval on)</sys_name>
+        <sys_package display_value="MediumApp" source="sn_mediumapp">e73ab1b567101200ff3598a557415a86</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="MediumApp">e73ab1b567101200ff3598a557415a86</sys_scope>
+        <sys_update_name>sn_mediumapp_sf_request_854a7db567101200ff3598a557415afe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-12-13 19:19:38</sys_updated_on>
+        <table>sn_mediumapp_request</table>
+        <ui_action display_value="Ready for work">894abdb567101200ff3598a557415a0b</ui_action>
+        <visible_fields/>
+        <work_notes/>
+        <work_notes_rule/>
+    </sn_mediumapp_sf_request>
+</record_update>

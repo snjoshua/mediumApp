@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Evening rush hour span, formatted as 14:30-16:00</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>sn_mediumapp.evening.rush.hours</name>
+        <read_roles>sn_mediumapp_admin</read_roles>
+        <suffix>evening.rush.hours</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2015-12-13 19:19:45</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>fa4abdb567101200ff3598a557415a44</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_mediumapp.evening.rush.hours</sys_name>
+        <sys_package display_value="MediumApp" source="sn_mediumapp">e73ab1b567101200ff3598a557415a86</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="MediumApp">e73ab1b567101200ff3598a557415a86</sys_scope>
+        <sys_update_name>sys_properties_fa4abdb567101200ff3598a557415a44</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-12-13 19:19:45</sys_updated_on>
+        <type>string</type>
+        <value/>
+        <write_roles>sn_mediumapp_admin</write_roles>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=fa4abdb567101200ff3598a557415a44"/>
+</record_update>

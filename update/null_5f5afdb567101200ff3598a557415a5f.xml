@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sm_config_module">
+    <sm_config_module action="INSERT_OR_UPDATE">
+        <app_name display_value="MediumApp">fe5afdb567101200ff3598a557415a4c</app_name>
+        <aspect>dispatch_queue</aspect>
+        <associated_mobile_module/>
+        <associated_module display_value="My Dispatch Map">175afdb567101200ff3598a557415a5f</associated_module>
+        <on>true</on>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2015-12-13 19:20:04</sys_created_on>
+        <sys_id>5f5afdb567101200ff3598a557415a5f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-12-13 19:20:04</sys_updated_on>
+    </sm_config_module>
+</record_update>

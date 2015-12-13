@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_group_has_role">
+    <sys_group_has_role action="INSERT_OR_UPDATE">
+        <granted_by/>
+        <group display_value="MediumApp Dispatchers" name="MediumApp Dispatchers">b94abdb567101200ff3598a557415a31</group>
+        <inherits>true</inherits>
+        <role display_value="sn_mediumapp_dispatcher" name="sn_mediumapp_dispatcher">d04a7db567101200ff3598a557415ae1</role>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2015-12-13 19:19:41</sys_created_on>
+        <sys_id>754abdb567101200ff3598a557415a32</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-12-13 19:19:41</sys_updated_on>
+    </sys_group_has_role>
+</record_update>

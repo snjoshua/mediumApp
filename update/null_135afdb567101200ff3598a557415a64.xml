@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sm_m2m_group_dependency">
+    <sm_m2m_group_dependency action="INSERT_OR_UPDATE">
+        <assignment_group display_value="MediumApp Assignment" name="MediumApp Assignment">3d4abdb567101200ff3598a557415a30</assignment_group>
+        <dispatch_group display_value="MediumApp Dispatchers" name="MediumApp Dispatchers">b94abdb567101200ff3598a557415a31</dispatch_group>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2015-12-13 19:20:05</sys_created_on>
+        <sys_id>135afdb567101200ff3598a557415a64</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-12-13 19:20:05</sys_updated_on>
+    </sm_m2m_group_dependency>
+</record_update>

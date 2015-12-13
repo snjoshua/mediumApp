@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="ce5afdb567101200ff3598a557415a25" sys_domain="global" table="sn_mediumapp_task_template" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2015-12-13 19:19:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>425afdb567101200ff3598a557415a26</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_mediumapp_task_template" name="sn_mediumapp_task_template" sys_domain="global" view="Default view">ce5afdb567101200ff3598a557415a25</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="sn_mediumapp_task_template" sys_domain="global" view="Default view">fd5afdb567101200ff3598a557415a24</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2015-12-13 19:19:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>sn_mediumapp_task_template</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2015-12-13 19:19:59</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ce5afdb567101200ff3598a557415a25</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sn_mediumapp_task_template</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="MediumApp" source="sn_mediumapp">e73ab1b567101200ff3598a557415a86</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="MediumApp">e73ab1b567101200ff3598a557415a86</sys_scope>
+            <sys_update_name>sys_ui_form_sections_ce5afdb567101200ff3598a557415a25</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2015-12-13 19:19:59</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

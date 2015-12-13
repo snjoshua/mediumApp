@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="sm_task" label="MediumApp Task" max_length="40" name="sn_mediumapp_task" type="collection"/>
+</database>
